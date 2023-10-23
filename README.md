@@ -7,15 +7,15 @@ We analyze a restaurant focusing primarily on take-out and delivery services, si
 
 ### Project Objectives:
 
-**Data Capture and Storage: The core objective of this project is to create a robust database capable of capturing and storing all critical data points relevant to Ben's Pizzeria. The database will be designed to efficiently manage data pertaining to customer orders, stock levels, and staff-related information. This meticulous data collection will form the foundation for insightful business analysis.
+**Data Capture and Storage:** The database will be designed to efficiently manage data pertaining to customer orders, stock levels, and staff-related information. This meticulous data collection will form the foundation for insightful business analysis.
 
-Business Performance Monitoring: Through the effective utilization of the relational database, the pizzeria will have the tools necessary to monitor its business performance in real-time. By leveraging dashboards, Ben and his team can gain valuable insights into the key aspects of the business, thereby facilitating informed decision-making.
+Business Performance Monitoring: Through the effective utilization of the relational database, the pizzeria will have the tools necessary to monitor its business performance in real-time. By leveraging dashboards, the team can gain valuable insights into the key aspects of the business, thereby facilitating informed decision-making.
 
-Cost and Inventory Management: A key outcome of this project will be the ability to comprehensively understand the pizzeria's overall costs and inventory. This understanding will be achieved through data aggregation and visualization tools like Looker Studio, allowing for data-driven decisions to optimize operations.
+Cost and Inventory Management: A key outcome of this project will be the ability to understand the pizzeria's overall costs and inventory. This understanding will be achieved through data aggregation and visualization tools in Looker Studio, allowing for data-driven decisions to optimize operations.
 
 ### Key Areas of Focus:
 
-Customer Orders: The database will capture and organize data related to customer orders, including order details, customer information, delivery status, and payment records. This data will enable the pizzeria to enhance customer service, track order trends, and improve order fulfillment.
+**Customer Orders:** The database will capture and organize data related to customer orders, including order details, customer information, delivery status, and payment records. This data will enable the pizzeria to enhance customer service, track order trends, and improve order fulfillment.
 
 Stock Levels: The stock management component of the database will provide real-time insights into ingredient levels, supplier details, and inventory turnover rates. This information will empower the pizzeria to maintain efficient stock levels, reduce wastage, and manage costs effectively.
 
@@ -27,6 +27,5 @@ To accomplish these objectives, we will employ industry-standard database manage
 
 ### Conclusion:
 
-The creation of a tailor-made relational database for Ben's Pizzeria is a pivotal step in ensuring the success and efficiency of the new venture. By capturing, storing, and analyzing data related to customer orders, stock levels, and staff, we aim to provide the foundation for data-driven decision-making and optimization of business performance. This project will be integral in helping Ben's Pizzeria become a thriving and competitive player in the food service industry.
+The creation of a tailor-made relational database for Pizzeria's owner is a pivotal step in ensuring the success and efficiency of the new venture. By capturing, storing, and analyzing data related to customer orders, stock levels, and staff, we aim to provide the foundation for data-driven decision-making and optimization of business performance. This project will be integral in helping the client become a thriving and competitive player in the food service industry.
 
-Project Stakeholders: Ben (Client), Project Team, Pizzeria Staff, and Customers
