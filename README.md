@@ -9,21 +9,17 @@ We analyze a restaurant focusing primarily on take-out and delivery services, si
 
 **Data Capture and Storage:** The database will be designed to efficiently manage data pertaining to customer orders, stock levels, and staff-related information. This meticulous data collection will form the foundation for insightful business analysis.
 
-Business Performance Monitoring: Through the effective utilization of the relational database, the pizzeria will have the tools necessary to monitor its business performance in real-time. By leveraging dashboards, the team can gain valuable insights into the key aspects of the business, thereby facilitating informed decision-making.
+**Business Performance Monitoring:** Through the effective utilization of the relational database, the pizzeria will have the tools necessary to monitor its business performance in real-time. By leveraging dashboards, the team can gain valuable insights into the key aspects of the business, thereby facilitating informed decision-making.
 
-Cost and Inventory Management: A key outcome of this project will be the ability to understand the pizzeria's overall costs and inventory. This understanding will be achieved through data aggregation and visualization tools in Looker Studio, allowing for data-driven decisions to optimize operations.
+**Cost and Inventory Management:** A key outcome of this project will be the ability to understand the pizzeria's overall costs and inventory. This understanding will be achieved through data aggregation and visualization tools in Looker Studio, allowing for data-driven decisions to optimize operations.
 
 ### Key Areas of Focus:
 
 **Customer Orders:** The database will capture and organize data related to customer orders, including order details, customer information, delivery status, and payment records. This data will enable the pizzeria to enhance customer service, track order trends, and improve order fulfillment.
 
-Stock Levels: The stock management component of the database will provide real-time insights into ingredient levels, supplier details, and inventory turnover rates. This information will empower the pizzeria to maintain efficient stock levels, reduce wastage, and manage costs effectively.
+**Stock Levels:** The stock management component of the database will provide real-time insights into ingredient levels, supplier details, and inventory turnover rates. This information will empower the pizzeria to maintain efficient stock levels, reduce wastage, and manage costs effectively.
 
-Staff Information: Staff data, including employee details, work schedules, and performance metrics, will be stored within the database. This will help in workforce management, scheduling, and ensuring that the pizzeria's staffing needs are met efficiently.
-
-Tools and Technologies:
-
-To accomplish these objectives, we will employ industry-standard database management systems and analytical tools, ensuring data security, integrity, and accessibility.
+**Staff Information:** Staff data, including employee details, work schedules, and performance metrics, will be stored within the database. This will help in workforce management, scheduling, and ensuring that the pizzeria's staffing needs are met efficiently.
 
 ### Conclusion:
 
