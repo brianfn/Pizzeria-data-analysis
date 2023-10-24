@@ -1,6 +1,6 @@
 ## Pizzeria-data-analysis
 -- Design and Implementation of a Tailor-Made Relational Database for Ben's Pizzeria <br>
-[Dashboard Link:]([Click Here](https://lookerstudio.google.com/reporting/c39377fd-05e2-4fcb-8eb2-5502bea67d3f))
+Dashboard Link:([Click Here](https://lookerstudio.google.com/reporting/c39377fd-05e2-4fcb-8eb2-5502bea67d3f))
 
 ### Project Overview:
 
